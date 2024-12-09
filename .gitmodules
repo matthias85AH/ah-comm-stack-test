@@ -1,0 +1,4 @@
+[submodule "ext/AH_Unity_Bluetooth"]
+	path = ext/AH_Unity_Bluetooth
+	url = https://github.com/AdamHallGroup/AH_Unity_Bluetooth
+	branch = main
